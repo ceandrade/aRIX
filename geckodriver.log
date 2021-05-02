@@ -1,0 +1,1340 @@
+1609657706324	geckodriver	INFO	Listening on 127.0.0.1:49991
+1609657707332	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSkelA7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657708592	Marionette	INFO	Listening on port 45215
+1609657708645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657708646	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39831","noProxy":[],"sslProxy":"127.0.0.1:39831"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657738442	geckodriver	INFO	Listening on 127.0.0.1:55145
+1609657739458	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHXaK5h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657740343	Marionette	INFO	Listening on port 37307
+1609657740372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657740373	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42213","noProxy":[],"sslProxy":"127.0.0.1:42213"}
+1609657769615	geckodriver	INFO	Listening on 127.0.0.1:34567
+1609657770631	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegJ7efD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657771833	Marionette	INFO	Listening on port 42691
+1609657771857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657771858	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39767","noProxy":[],"sslProxy":"127.0.0.1:39767"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657798296	geckodriver	INFO	Listening on 127.0.0.1:44929
+1609657799312	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFScTj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657800535	Marionette	INFO	Listening on port 45517
+1609657800654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657800656	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39045","noProxy":[],"sslProxy":"127.0.0.1:39045"}
+1609657827419	geckodriver	INFO	Listening on 127.0.0.1:48461
+1609657828424	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIDyBKg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657829243	Marionette	INFO	Listening on port 43555
+1609657829357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657829359	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34973","noProxy":[],"sslProxy":"127.0.0.1:34973"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657858552	geckodriver	INFO	Listening on 127.0.0.1:34909
+1609657859556	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXipPuL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657860804	Marionette	INFO	Listening on port 39885
+1609657860880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657860881	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46263","noProxy":[],"sslProxy":"127.0.0.1:46263"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657882403	Marionette	INFO	Stopped listening on port 39885
+1609657884674	geckodriver	INFO	Listening on 127.0.0.1:47251
+1609657885690	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehmWBKV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657886640	Marionette	INFO	Listening on port 37867
+1609657886902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657886903	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45509","noProxy":[],"sslProxy":"127.0.0.1:45509"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657918614	geckodriver	INFO	Listening on 127.0.0.1:38753
+1609657919629	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHwo0LY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657920889	Marionette	INFO	Listening on port 40851
+1609657920953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657920954	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42687","noProxy":[],"sslProxy":"127.0.0.1:42687"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657941363	Marionette	INFO	Stopped listening on port 40851
+1609657943913	geckodriver	INFO	Listening on 127.0.0.1:35083
+1609657944919	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHtxKA8"
+1609657948357	geckodriver	INFO	Listening on 127.0.0.1:53057
+1609657949365	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqTb6S8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657950464	Marionette	INFO	Listening on port 45359
+1609657950490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657950491	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36949","noProxy":[],"sslProxy":"127.0.0.1:36949"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://sdfestaticassets-us-east-1.sciencedirectassets.com/prod/08d793900e131208bbd3a09a7b27950f9240d41f/arp.js, line 5: ReferenceError: ReactDOM is not defined
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609657971317	Marionette	INFO	Stopped listening on port 45359
+1609657973634	geckodriver	INFO	Listening on 127.0.0.1:50237
+1609657974642	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley8Rgaj"
+1609657978216	geckodriver	INFO	Listening on 127.0.0.1:52277
+1609657979225	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesmorAl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609657980142	Marionette	INFO	Listening on port 38221
+1609657980263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609657980264	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36029","noProxy":[],"sslProxy":"127.0.0.1:36029"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://sdfestaticassets-us-east-1.sciencedirectassets.com/prod/08d793900e131208bbd3a09a7b27950f9240d41f/arp.js, line 5: ReferenceError: ReactDOM is not defined
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658000955	Marionette	INFO	Stopped listening on port 38221
+1609658003485	geckodriver	INFO	Listening on 127.0.0.1:58643
+1609658004493	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledTwr6C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658008808	geckodriver	INFO	Listening on 127.0.0.1:58527
+1609658009817	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00M9Pz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658010788	Marionette	INFO	Listening on port 41363
+1609658010846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658010847	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45693","noProxy":[],"sslProxy":"127.0.0.1:45693"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658030869	Marionette	INFO	Stopped listening on port 41363
+1609658033250	geckodriver	INFO	Listening on 127.0.0.1:49605
+1609658034259	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUBw1ci"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658035031	Marionette	INFO	Listening on port 38057
+1609658035268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658035269	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33463","noProxy":[],"sslProxy":"127.0.0.1:33463"}
+1609658040558	geckodriver	INFO	Listening on 127.0.0.1:45261
+1609658041563	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcvnED"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658042659	Marionette	INFO	Listening on port 42173
+1609658042676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658042677	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44011","noProxy":[],"sslProxy":"127.0.0.1:44011"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658062786	Marionette	INFO	Stopped listening on port 42173
+1609658065360	geckodriver	INFO	Listening on 127.0.0.1:38743
+1609658066368	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpDLxX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658067396	Marionette	INFO	Listening on port 42343
+1609658067525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658067527	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44921","noProxy":[],"sslProxy":"127.0.0.1:44921"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658087482	Marionette	INFO	Stopped listening on port 42343
+1609658090154	geckodriver	INFO	Listening on 127.0.0.1:35901
+1609658091163	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileviWEvj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658092143	Marionette	INFO	Listening on port 43529
+1609658092177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658092179	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38065","noProxy":[],"sslProxy":"127.0.0.1:38065"}
+1609658098605	geckodriver	INFO	Listening on 127.0.0.1:51319
+1609658099610	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJv4zC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658100682	Marionette	INFO	Listening on port 37685
+1609658100723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658100724	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35443","noProxy":[],"sslProxy":"127.0.0.1:35443"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+(firefox:6489): GLib-GObject-WARNING **: 04:15:07.848: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f9041276970' of type 'MaiAtkType21'
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658121221	Marionette	INFO	Stopped listening on port 37685
+1609658123398	geckodriver	INFO	Listening on 127.0.0.1:39011
+1609658124402	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX6LdjW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658128598	geckodriver	INFO	Listening on 127.0.0.1:35155
+1609658129614	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTey9Zt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658130828	Marionette	INFO	Listening on port 46011
+1609658130943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658130945	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42785","noProxy":[],"sslProxy":"127.0.0.1:42785"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658151536	Marionette	INFO	Stopped listening on port 46011
+1609658154074	geckodriver	INFO	Listening on 127.0.0.1:45423
+1609658155079	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5N2d6K"
+1609658158498	geckodriver	INFO	Listening on 127.0.0.1:34369
+1609658159506	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile62GFX9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658160880	Marionette	INFO	Listening on port 42499
+1609658160936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658160937	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34249","noProxy":[],"sslProxy":"127.0.0.1:34249"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658181737	Marionette	INFO	Stopped listening on port 42499
+1609658184174	geckodriver	INFO	Listening on 127.0.0.1:56863
+1609658185191	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMaGgiP"
+1609658188796	geckodriver	INFO	Listening on 127.0.0.1:54903
+1609658189804	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebiyaZF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658190895	Marionette	INFO	Listening on port 38785
+1609658190918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658190919	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33975","noProxy":[],"sslProxy":"127.0.0.1:33975"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658211378	Marionette	INFO	Stopped listening on port 38785
+1609658213864	geckodriver	INFO	Listening on 127.0.0.1:41233
+1609658214881	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBY2jlp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658218704	geckodriver	INFO	Listening on 127.0.0.1:58795
+1609658219712	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesMZdBG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658220704	Marionette	INFO	Listening on port 41209
+1609658220725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658220726	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40721","noProxy":[],"sslProxy":"127.0.0.1:40721"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658240766	Marionette	INFO	Stopped listening on port 41209
+1609658243156	geckodriver	INFO	Listening on 127.0.0.1:35321
+1609658244163	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBFRRSz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658245136	Marionette	INFO	Listening on port 40927
+1609658245177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658245178	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39295","noProxy":[],"sslProxy":"127.0.0.1:39295"}
+Exiting due to channel error.
+1609658251423	geckodriver	INFO	Listening on 127.0.0.1:60087
+1609658252441	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHYPEbP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658253504	Marionette	INFO	Listening on port 41867
+1609658253554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658253555	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44461","noProxy":[],"sslProxy":"127.0.0.1:44461"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658273892	Marionette	INFO	Stopped listening on port 41867
+1609658276503	geckodriver	INFO	Listening on 127.0.0.1:42241
+1609658277511	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4YS2RA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658278427	Marionette	INFO	Listening on port 43839
+1609658278523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658278524	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34615","noProxy":[],"sslProxy":"127.0.0.1:34615"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658308969	geckodriver	INFO	Listening on 127.0.0.1:59707
+1609658309973	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKUaIS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658311006	Marionette	INFO	Listening on port 46011
+1609658311134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658311135	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45973","noProxy":[],"sslProxy":"127.0.0.1:45973"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658339119	geckodriver	INFO	Listening on 127.0.0.1:52985
+1609658340136	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRfT4e4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658340928	Marionette	INFO	Listening on port 45237
+1609658341040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658341041	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42643","noProxy":[],"sslProxy":"127.0.0.1:42643"}
+1609658368898	geckodriver	INFO	Listening on 127.0.0.1:53265
+1609658369901	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW0Iwgm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658371055	Marionette	INFO	Listening on port 44951
+1609658371115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658371116	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46781","noProxy":[],"sslProxy":"127.0.0.1:46781"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658399620	geckodriver	INFO	Listening on 127.0.0.1:51129
+1609658400629	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7Sxri"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658401713	Marionette	INFO	Listening on port 44281
+1609658401743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658401744	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40859","noProxy":[],"sslProxy":"127.0.0.1:40859"}
+1609658415302	Marionette	INFO	Stopped listening on port 44281
+1609658417580	geckodriver	INFO	Listening on 127.0.0.1:41757
+1609658418588	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYM4Tmv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658419538	Marionette	INFO	Listening on port 40735
+1609658419601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658419602	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37819","noProxy":[],"sslProxy":"127.0.0.1:37819"}
+1609658429397	geckodriver	INFO	Listening on 127.0.0.1:42125
+1609658430414	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelquWwN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658431448	Marionette	INFO	Listening on port 34317
+1609658431551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658431553	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41667","noProxy":[],"sslProxy":"127.0.0.1:41667"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658450856	Marionette	INFO	Stopped listening on port 34317
+1609658452912	geckodriver	INFO	Listening on 127.0.0.1:57245
+1609658453920	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIsYed7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658454875	Marionette	INFO	Listening on port 45827
+1609658454935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658454936	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33549","noProxy":[],"sslProxy":"127.0.0.1:33549"}
+1609658460670	geckodriver	INFO	Listening on 127.0.0.1:41011
+1609658461677	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRDOZ4I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658462644	Marionette	INFO	Listening on port 36253
+1609658462693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658462694	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45941","noProxy":[],"sslProxy":"127.0.0.1:45941"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658482609	Marionette	INFO	Stopped listening on port 36253
+1609658485043	geckodriver	INFO	Listening on 127.0.0.1:43683
+1609658486059	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemyVZe1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658487117	Marionette	INFO	Listening on port 45427
+1609658487208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658487210	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45413","noProxy":[],"sslProxy":"127.0.0.1:45413"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658507359	Marionette	INFO	Stopped listening on port 45427
+1609658509909	geckodriver	INFO	Listening on 127.0.0.1:59647
+1609658510917	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezXz96z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658511919	Marionette	INFO	Listening on port 40509
+1609658512040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658512041	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40683","noProxy":[],"sslProxy":"127.0.0.1:40683"}
+1609658527584	geckodriver	INFO	Listening on 127.0.0.1:36821
+1609658528592	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2LUR8s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658529505	Marionette	INFO	Listening on port 37131
+1609658529644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658529646	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34925","noProxy":[],"sslProxy":"127.0.0.1:34925"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658549477	geckodriver	INFO	Listening on 127.0.0.1:38139
+1609658550481	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiwRq9W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658551440	Marionette	INFO	Listening on port 34715
+1609658551497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658551498	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45373","noProxy":[],"sslProxy":"127.0.0.1:45373"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658571869	Marionette	INFO	Stopped listening on port 34715
+1609658574520	geckodriver	INFO	Listening on 127.0.0.1:43181
+1609658575537	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel7zS2r"
+1609658579379	geckodriver	INFO	Listening on 127.0.0.1:58017
+1609658580387	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLIWNIm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658581325	Marionette	INFO	Listening on port 44621
+1609658581415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658581417	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33181","noProxy":[],"sslProxy":"127.0.0.1:33181"}
+1609658604948	Marionette	INFO	Stopped listening on port 44621
+1609658607700	geckodriver	INFO	Listening on 127.0.0.1:33535
+1609658608709	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea3pNLj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658609685	Marionette	INFO	Listening on port 39883
+1609658609726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658609727	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45593","noProxy":[],"sslProxy":"127.0.0.1:45593"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658639543	geckodriver	INFO	Listening on 127.0.0.1:46945
+1609658640551	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileODjkn1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658641603	Marionette	INFO	Listening on port 38347
+1609658641704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658641706	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45635","noProxy":[],"sslProxy":"127.0.0.1:45635"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658661788	Marionette	INFO	Stopped listening on port 38347
+1609658664131	geckodriver	INFO	Listening on 127.0.0.1:57029
+1609658665148	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewhzRWD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658669306	geckodriver	INFO	Listening on 127.0.0.1:36911
+1609658670318	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekq0zzM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658671443	Marionette	INFO	Listening on port 43457
+1609658671579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658671580	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36931","noProxy":[],"sslProxy":"127.0.0.1:36931"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609658691832	Marionette	INFO	Stopped listening on port 43457
+1609658694634	geckodriver	INFO	Listening on 127.0.0.1:37487
+1609658695646	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhTOtt"
+1609658699416	geckodriver	INFO	Listening on 127.0.0.1:36891
+1609658700430	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile09qgCD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609658701215	Marionette	INFO	Listening on port 46259
+1609658701243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609658701244	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40359","noProxy":[],"sslProxy":"127.0.0.1:40359"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659041857	geckodriver	INFO	Listening on 127.0.0.1:42031
+1609659042843	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXQWOk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659044883	Marionette	INFO	Listening on port 45983
+1609659044961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659044962	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38389","noProxy":[],"sslProxy":"127.0.0.1:38389"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659072021	geckodriver	INFO	Listening on 127.0.0.1:38483
+1609659073024	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevWCWcv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659074593	Marionette	INFO	Listening on port 41771
+1609659074647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659074649	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46813","noProxy":[],"sslProxy":"127.0.0.1:46813"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659102199	geckodriver	INFO	Listening on 127.0.0.1:32779
+1609659103215	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5qUMLY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659104125	Marionette	INFO	Listening on port 34029
+1609659104411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659104416	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35695","noProxy":[],"sslProxy":"127.0.0.1:35695"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659132033	geckodriver	INFO	Listening on 127.0.0.1:56607
+1609659133051	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile78h3ge"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659133904	Marionette	INFO	Listening on port 38683
+1609659134112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659134117	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38241","noProxy":[],"sslProxy":"127.0.0.1:38241"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659162060	geckodriver	INFO	Listening on 127.0.0.1:36601
+1609659163076	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemgYUr8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659163922	Marionette	INFO	Listening on port 45811
+1609659164021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659164022	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44257","noProxy":[],"sslProxy":"127.0.0.1:44257"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/51/js/react-dom/16.12.0/react-dom.production.min.js, line 175: Error: Minified React error #227; visit https://reactjs.org/docs/error-decoder.html?invariant=227 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659185656	Marionette	INFO	Stopped listening on port 45811
+1609659188218	geckodriver	INFO	Listening on 127.0.0.1:39037
+1609659189226	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenfz9g5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659189989	Marionette	INFO	Listening on port 42487
+1609659190039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659190040	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36421","noProxy":[],"sslProxy":"127.0.0.1:36421"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659210019	Marionette	INFO	Stopped listening on port 42487
+1609659212638	geckodriver	INFO	Listening on 127.0.0.1:59605
+1609659213649	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaaBEAo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659214450	Marionette	INFO	Listening on port 34929
+1609659214463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659214464	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42599","noProxy":[],"sslProxy":"127.0.0.1:42599"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609659221763	geckodriver	INFO	Listening on 127.0.0.1:38387
+1609659222778	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletCsSuJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659223647	Marionette	INFO	Listening on port 36095
+1609659223690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659223691	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45373","noProxy":[],"sslProxy":"127.0.0.1:45373"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659243581	Marionette	INFO	Stopped listening on port 36095
+1609659246127	geckodriver	INFO	Listening on 127.0.0.1:47555
+1609659247143	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenHHka5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659247960	Marionette	INFO	Listening on port 43879
+1609659248110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659248111	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40397","noProxy":[],"sslProxy":"127.0.0.1:40397"}
+1609659253562	geckodriver	INFO	Listening on 127.0.0.1:42521
+1609659254579	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDrKKy3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659255466	Marionette	INFO	Listening on port 32957
+1609659255494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659255495	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38547","noProxy":[],"sslProxy":"127.0.0.1:38547"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659275631	Marionette	INFO	Stopped listening on port 32957
+1609659278087	geckodriver	INFO	Listening on 127.0.0.1:56803
+1609659279101	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefXhTPT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659280305	Marionette	INFO	Listening on port 40187
+1609659280438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659280440	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44533","noProxy":[],"sslProxy":"127.0.0.1:44533"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659301469	Marionette	INFO	Stopped listening on port 40187
+1609659303557	geckodriver	INFO	Listening on 127.0.0.1:42531
+1609659304565	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekAaF2s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659305720	Marionette	INFO	Listening on port 35171
+1609659305802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659305804	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42281","noProxy":[],"sslProxy":"127.0.0.1:42281"}
+1609659312644	geckodriver	INFO	Listening on 127.0.0.1:40947
+1609659313652	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKszJLO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659314383	Marionette	INFO	Listening on port 42909
+1609659314496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659314498	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42981","noProxy":[],"sslProxy":"127.0.0.1:42981"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/51/js/react-dom/16.12.0/react-dom.production.min.js, line 175: Error: Minified React error #227; visit https://reactjs.org/docs/error-decoder.html?invariant=227 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659335531	Marionette	INFO	Stopped listening on port 42909
+1609659338050	geckodriver	INFO	Listening on 127.0.0.1:43211
+1609659339055	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFIDuA8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659339806	Marionette	INFO	Listening on port 33027
+1609659339948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659339949	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37521","noProxy":[],"sslProxy":"127.0.0.1:37521"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659359867	Marionette	INFO	Stopped listening on port 33027
+1609659362598	geckodriver	INFO	Listening on 127.0.0.1:43405
+1609659363602	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5fDEfD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659364633	Marionette	INFO	Listening on port 46103
+1609659364714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659364715	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41101","noProxy":[],"sslProxy":"127.0.0.1:41101"}
+1609659372349	geckodriver	INFO	Listening on 127.0.0.1:54887
+1609659373351	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeXXqSt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659374288	Marionette	INFO	Listening on port 39529
+1609659374363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659374364	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35967","noProxy":[],"sslProxy":"127.0.0.1:35967"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659402577	geckodriver	INFO	Listening on 127.0.0.1:54939
+1609659403593	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCzE4Lh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659404684	Marionette	INFO	Listening on port 45975
+1609659404712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659404713	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45629","noProxy":[],"sslProxy":"127.0.0.1:45629"}
+Exiting due to channel error.
+1609659432284	geckodriver	INFO	Listening on 127.0.0.1:49485
+1609659433299	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCCU3z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659434483	Marionette	INFO	Listening on port 42465
+1609659434514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659434515	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45831","noProxy":[],"sslProxy":"127.0.0.1:45831"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659462921	geckodriver	INFO	Listening on 127.0.0.1:52261
+1609659463928	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqw5sAl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659464676	Marionette	INFO	Listening on port 36741
+1609659464935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659464936	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40159","noProxy":[],"sslProxy":"127.0.0.1:40159"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659492249	geckodriver	INFO	Listening on 127.0.0.1:50957
+1609659493257	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile60AOMe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659494290	Marionette	INFO	Listening on port 35407
+1609659494371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659494372	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39119","noProxy":[],"sslProxy":"127.0.0.1:39119"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659516398	Marionette	INFO	Stopped listening on port 35407
+1609659518815	geckodriver	INFO	Listening on 127.0.0.1:35855
+1609659519819	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR1VqWf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659520815	Marionette	INFO	Listening on port 36057
+1609659520833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659520834	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38747","noProxy":[],"sslProxy":"127.0.0.1:38747"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659552556	geckodriver	INFO	Listening on 127.0.0.1:48779
+1609659553570	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh3ygid"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659554671	Marionette	INFO	Listening on port 34349
+1609659554684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659554685	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38491","noProxy":[],"sslProxy":"127.0.0.1:38491"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659582394	geckodriver	INFO	Listening on 127.0.0.1:47609
+1609659583398	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnYRxN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659584354	Marionette	INFO	Listening on port 37801
+1609659584421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659584423	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33643","noProxy":[],"sslProxy":"127.0.0.1:33643"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659612874	geckodriver	INFO	Listening on 127.0.0.1:51275
+1609659613877	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ6TphF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659614957	Marionette	INFO	Listening on port 34279
+1609659614990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659614991	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35269","noProxy":[],"sslProxy":"127.0.0.1:35269"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659635737	Marionette	INFO	Stopped listening on port 34279
+1609659638245	geckodriver	INFO	Listening on 127.0.0.1:34495
+1609659639248	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerNItYX"
+1609659642475	geckodriver	INFO	Listening on 127.0.0.1:47695
+1609659643488	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhMq8C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659644521	Marionette	INFO	Listening on port 43589
+1609659644600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659644601	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36703","noProxy":[],"sslProxy":"127.0.0.1:36703"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659672607	geckodriver	INFO	Listening on 127.0.0.1:35071
+1609659673623	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbCGHL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659674683	Marionette	INFO	Listening on port 34193
+1609659674748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659674750	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41177","noProxy":[],"sslProxy":"127.0.0.1:41177"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659702747	geckodriver	INFO	Listening on 127.0.0.1:34171
+1609659703751	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNBXYca"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659704773	Marionette	INFO	Listening on port 38357
+1609659704868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659704869	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35573","noProxy":[],"sslProxy":"127.0.0.1:35573"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659732860	geckodriver	INFO	Listening on 127.0.0.1:37931
+1609659733865	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOM4ZTZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659734844	Marionette	INFO	Listening on port 36101
+1609659734877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659734878	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44111","noProxy":[],"sslProxy":"127.0.0.1:44111"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659762589	geckodriver	INFO	Listening on 127.0.0.1:33193
+1609659763593	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFRaBXE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659764593	Marionette	INFO	Listening on port 38069
+1609659764609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659764610	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35303","noProxy":[],"sslProxy":"127.0.0.1:35303"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609659793290	geckodriver	INFO	Listening on 127.0.0.1:37461
+1609659794294	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyNvoha"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659795296	Marionette	INFO	Listening on port 39049
+1609659795407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659795408	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34881","noProxy":[],"sslProxy":"127.0.0.1:34881"}
+1609659823208	geckodriver	INFO	Listening on 127.0.0.1:58881
+1609659824214	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesfleD4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659825156	Marionette	INFO	Listening on port 42247
+1609659825326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659825327	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33795","noProxy":[],"sslProxy":"127.0.0.1:33795"}
+1609659846647	Marionette	INFO	Stopped listening on port 42247
+1609659849283	geckodriver	INFO	Listening on 127.0.0.1:38703
+1609659850300	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLed0d1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659851409	Marionette	INFO	Listening on port 33061
+1609659851544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659851545	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41065","noProxy":[],"sslProxy":"127.0.0.1:41065"}
+1609659882976	geckodriver	INFO	Listening on 127.0.0.1:59655
+1609659883980	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem2WxWx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659885057	Marionette	INFO	Listening on port 34603
+1609659885093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659885094	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38265","noProxy":[],"sslProxy":"127.0.0.1:38265"}
+1609659912882	geckodriver	INFO	Listening on 127.0.0.1:55417
+1609659913886	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK5HLut"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659914820	Marionette	INFO	Listening on port 41831
+1609659914899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659914900	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38693","noProxy":[],"sslProxy":"127.0.0.1:38693"}
+1609659943399	geckodriver	INFO	Listening on 127.0.0.1:56335
+1609659944408	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNotMEP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659945420	Marionette	INFO	Listening on port 39891
+1609659945520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659945521	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46285","noProxy":[],"sslProxy":"127.0.0.1:46285"}
+1609659973066	geckodriver	INFO	Listening on 127.0.0.1:56205
+1609659974070	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesNDPuy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609659974901	Marionette	INFO	Listening on port 35789
+1609659975175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609659975176	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42417","noProxy":[],"sslProxy":"127.0.0.1:42417"}
+1609660003028	geckodriver	INFO	Listening on 127.0.0.1:60817
+1609660004032	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHLjehv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609660005202	Marionette	INFO	Listening on port 45317
+1609660005248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609660005249	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37637","noProxy":[],"sslProxy":"127.0.0.1:37637"}
+1609660033616	geckodriver	INFO	Listening on 127.0.0.1:33411
+1609660034620	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGraHjB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609660035713	Marionette	INFO	Listening on port 39181
+1609660035736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609660035737	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46479","noProxy":[],"sslProxy":"127.0.0.1:46479"}
+1609660433132	geckodriver	INFO	Listening on 127.0.0.1:56333
+1609660434150	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAsX8HU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609660434974	Marionette	INFO	Listening on port 34469
+1609660435267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609660435268	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42939","noProxy":[],"sslProxy":"127.0.0.1:42939"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609660465060	geckodriver	INFO	Listening on 127.0.0.1:49287
+1609660466065	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekNJYcs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609660466818	Marionette	INFO	Listening on port 33775
+1609660466911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609660466913	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33483","noProxy":[],"sslProxy":"127.0.0.1:33483"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609660494765	geckodriver	INFO	Listening on 127.0.0.1:34177
+1609660495770	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVzDeC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609660496550	Marionette	INFO	Listening on port 33995
+1609660496598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609660496600	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39991","noProxy":[],"sslProxy":"127.0.0.1:39991"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609690367372	geckodriver	INFO	Listening on 127.0.0.1:55957
+1609690368360	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGLmL8s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609690370382	Marionette	INFO	Listening on port 41607
+1609690370503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609690370504	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45389","noProxy":[],"sslProxy":"127.0.0.1:45389"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609695116750	geckodriver	INFO	Listening on 127.0.0.1:34119
+1609695117760	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTjvcDC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695118780	Marionette	INFO	Listening on port 46817
+1609695118878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695118879	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33327","noProxy":[],"sslProxy":"127.0.0.1:33327"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609695204533	geckodriver	INFO	Listening on 127.0.0.1:39117
+1609695205538	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelO5mcp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695206563	Marionette	INFO	Listening on port 39119
+1609695206667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695206668	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46483","noProxy":[],"sslProxy":"127.0.0.1:46483"}
+1609695290993	geckodriver	INFO	Listening on 127.0.0.1:53875
+1609695292018	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zOzoV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695293093	Marionette	INFO	Listening on port 43633
+1609695293141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695293142	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40839","noProxy":[],"sslProxy":"127.0.0.1:40839"}
+1609695391162	geckodriver	INFO	Listening on 127.0.0.1:48329
+1609695392175	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9H9p72"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695392956	Marionette	INFO	Listening on port 37239
+1609695393129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695393135	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42021","noProxy":[],"sslProxy":"127.0.0.1:42021"}
+1609695490987	geckodriver	INFO	Listening on 127.0.0.1:41355
+1609695491996	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBmZOob"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695493126	Marionette	INFO	Listening on port 41779
+1609695493210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695493211	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39701","noProxy":[],"sslProxy":"127.0.0.1:39701"}
+1609695655046	geckodriver	INFO	Listening on 127.0.0.1:55599
+1609695656055	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGQC1G8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695657234	Marionette	INFO	Listening on port 43113
+1609695657271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695657272	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44193","noProxy":[],"sslProxy":"127.0.0.1:44193"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609695725338	geckodriver	INFO	Listening on 127.0.0.1:40143
+1609695726345	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGIrsHt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695727598	Marionette	INFO	Listening on port 33495
+1609695727663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695727665	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34303","noProxy":[],"sslProxy":"127.0.0.1:34303"}
+1609695791271	geckodriver	INFO	Listening on 127.0.0.1:44843
+1609695792279	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileepcMMQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695793526	Marionette	INFO	Listening on port 46047
+1609695793628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695793630	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33473","noProxy":[],"sslProxy":"127.0.0.1:33473"}
+1609695898019	geckodriver	INFO	Listening on 127.0.0.1:34129
+1609695899024	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek6DMAD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695900200	Marionette	INFO	Listening on port 44609
+1609695900247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695900249	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41285","noProxy":[],"sslProxy":"127.0.0.1:41285"}
+1609695991409	geckodriver	INFO	Listening on 127.0.0.1:56229
+1609695992418	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileej9hiR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609695993548	Marionette	INFO	Listening on port 40549
+1609695993639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609695993641	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37515","noProxy":[],"sslProxy":"127.0.0.1:37515"}
+1609696091401	geckodriver	INFO	Listening on 127.0.0.1:52673
+1609696092409	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezfNzyz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696093159	Marionette	INFO	Listening on port 42845
+1609696093279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696093280	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43677","noProxy":[],"sslProxy":"127.0.0.1:43677"}
+1609696146961	Marionette	INFO	Stopped listening on port 42845
+1609696154133	geckodriver	INFO	Listening on 127.0.0.1:49523
+1609696155142	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyK47EO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696156291	Marionette	INFO	Listening on port 44739
+1609696156358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696156359	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38067","noProxy":[],"sslProxy":"127.0.0.1:38067"}
+1609696216774	geckodriver	INFO	Listening on 127.0.0.1:36773
+1609696217782	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUHTYYm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696218928	Marionette	INFO	Listening on port 38255
+1609696218995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696218996	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46205","noProxy":[],"sslProxy":"127.0.0.1:46205"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609696279770	Marionette	INFO	Stopped listening on port 38255
+1609696287157	geckodriver	INFO	Listening on 127.0.0.1:52235
+1609696288165	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRXuPd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696288954	Marionette	INFO	Listening on port 33847
+1609696289030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696289031	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37725","noProxy":[],"sslProxy":"127.0.0.1:37725"}
+1609696349128	geckodriver	INFO	Listening on 127.0.0.1:46555
+1609696350135	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPKEcg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696351286	Marionette	INFO	Listening on port 38997
+1609696351388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696351390	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39597","noProxy":[],"sslProxy":"127.0.0.1:39597"}
+1609696391518	geckodriver	INFO	Listening on 127.0.0.1:44995
+1609696392527	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehsZsXv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696393709	Marionette	INFO	Listening on port 37781
+1609696393749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696393750	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46367","noProxy":[],"sslProxy":"127.0.0.1:46367"}
+1609696491664	geckodriver	INFO	Listening on 127.0.0.1:38209
+1609696492673	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexru5Mq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696493710	Marionette	INFO	Listening on port 39827
+1609696493787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696493788	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36715","noProxy":[],"sslProxy":"127.0.0.1:36715"}
+1609696592099	geckodriver	INFO	Listening on 127.0.0.1:52129
+1609696593107	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZ4ZBC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696594147	Marionette	INFO	Listening on port 39161
+1609696594244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696594246	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42227","noProxy":[],"sslProxy":"127.0.0.1:42227"}
+1609696691825	geckodriver	INFO	Listening on 127.0.0.1:47245
+1609696692833	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelIQRII"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696693914	Marionette	INFO	Listening on port 36775
+1609696693946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696693947	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40021","noProxy":[],"sslProxy":"127.0.0.1:40021"}
+1609696791987	geckodriver	INFO	Listening on 127.0.0.1:45101
+1609696792995	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBQVnMK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696794045	Marionette	INFO	Listening on port 45961
+1609696794143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696794144	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33795","noProxy":[],"sslProxy":"127.0.0.1:33795"}
+1609696892541	geckodriver	INFO	Listening on 127.0.0.1:43159
+1609696893549	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileotgM4K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696894517	Marionette	INFO	Listening on port 43145
+1609696894561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696894562	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36821","noProxy":[],"sslProxy":"127.0.0.1:36821"}
+1609696992499	geckodriver	INFO	Listening on 127.0.0.1:46323
+1609696993507	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2L09pz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609696994556	Marionette	INFO	Listening on port 36297
+1609696994620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609696994621	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41325","noProxy":[],"sslProxy":"127.0.0.1:41325"}
+1609697092162	geckodriver	INFO	Listening on 127.0.0.1:45089
+1609697093170	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGUlrx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697094208	Marionette	INFO	Listening on port 37345
+1609697094288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697094289	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44541","noProxy":[],"sslProxy":"127.0.0.1:44541"}
+1609697192830	geckodriver	INFO	Listening on 127.0.0.1:35721
+1609697193838	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFFc16I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697194801	Marionette	INFO	Listening on port 33053
+1609697194878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697194880	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40347","noProxy":[],"sslProxy":"127.0.0.1:40347"}
+1609697292679	geckodriver	INFO	Listening on 127.0.0.1:54035
+1609697293687	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej7daH8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697294464	Marionette	INFO	Listening on port 40271
+1609697294558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697294559	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39763","noProxy":[],"sslProxy":"127.0.0.1:39763"}
+1609697399519	geckodriver	INFO	Listening on 127.0.0.1:53417
+1609697400528	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehtgvrE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697401645	Marionette	INFO	Listening on port 39999
+1609697401756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697401758	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38923","noProxy":[],"sslProxy":"127.0.0.1:38923"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609697464054	Marionette	INFO	Stopped listening on port 39999
+1609697471671	geckodriver	INFO	Listening on 127.0.0.1:53609
+1609697472679	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYjV5Zu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697473400	Marionette	INFO	Listening on port 35845
+1609697473543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697473544	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46421","noProxy":[],"sslProxy":"127.0.0.1:46421"}
+1609697492791	geckodriver	INFO	Listening on 127.0.0.1:43769
+1609697493809	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPUXuc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697495027	Marionette	INFO	Listening on port 46571
+1609697495154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697495156	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39841","noProxy":[],"sslProxy":"127.0.0.1:39841"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609697592903	geckodriver	INFO	Listening on 127.0.0.1:48497
+1609697593907	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS6dUhP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697595128	Marionette	INFO	Listening on port 35073
+1609697595224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697595225	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37467","noProxy":[],"sslProxy":"127.0.0.1:37467"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609697692815	geckodriver	INFO	Listening on 127.0.0.1:59683
+1609697693833	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek4NiLl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697695018	Marionette	INFO	Listening on port 33089
+1609697695048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697695049	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37791","noProxy":[],"sslProxy":"127.0.0.1:37791"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609697792980	geckodriver	INFO	Listening on 127.0.0.1:39969
+1609697793988	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHZM9b5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697794727	Marionette	INFO	Listening on port 36575
+1609697794861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697794862	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40393","noProxy":[],"sslProxy":"127.0.0.1:40393"}
+1609697893000	geckodriver	INFO	Listening on 127.0.0.1:47499
+1609697894005	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledLQ6YE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697895158	Marionette	INFO	Listening on port 44159
+1609697895226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697895227	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38925","noProxy":[],"sslProxy":"127.0.0.1:38925"}
+
+(firefox:30604): GLib-GObject-WARNING **: 15:18:27.147: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f640cb25f60' of type 'MaiAtkType139'
+1609697956650	Marionette	INFO	Stopped listening on port 44159
+1609697964146	geckodriver	INFO	Listening on 127.0.0.1:51963
+1609697965155	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGApgE0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609697965953	Marionette	INFO	Listening on port 41635
+1609697965972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609697965973	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41011","noProxy":[],"sslProxy":"127.0.0.1:41011"}
+
+(firefox:31072): GLib-GObject-WARNING **: 15:19:36.910: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f4c6cebaa10' of type 'MaiAtkType139'
+1609698033565	geckodriver	INFO	Listening on 127.0.0.1:51745
+1609698034573	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaa2o6Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698035724	Marionette	INFO	Listening on port 39309
+1609698035816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698035818	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34711","noProxy":[],"sslProxy":"127.0.0.1:34711"}
+
+(firefox:31554): GLib-GObject-WARNING **: 15:20:46.728: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fe4639cd6a0' of type 'MaiAtkType139'
+1609698104387	geckodriver	INFO	Listening on 127.0.0.1:48173
+1609698105395	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile18Emt1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698106585	Marionette	INFO	Listening on port 37911
+1609698106608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698106609	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37809","noProxy":[],"sslProxy":"127.0.0.1:37809"}
+1609698174124	Marionette	INFO	Stopped listening on port 37911
+1609698181399	geckodriver	INFO	Listening on 127.0.0.1:45723
+1609698182408	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerOqKqZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698183504	Marionette	INFO	Listening on port 33919
+1609698183557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698183559	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41293","noProxy":[],"sslProxy":"127.0.0.1:41293"}
+1609698193315	geckodriver	INFO	Listening on 127.0.0.1:59233
+1609698194324	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOg0FJi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698195336	Marionette	INFO	Listening on port 33629
+1609698195445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698195447	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37151","noProxy":[],"sslProxy":"127.0.0.1:37151"}
+1609698293456	geckodriver	INFO	Listening on 127.0.0.1:43101
+1609698294464	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePMWaPS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698295487	Marionette	INFO	Listening on port 41579
+1609698295621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698295622	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46563","noProxy":[],"sslProxy":"127.0.0.1:46563"}
+1609698393464	geckodriver	INFO	Listening on 127.0.0.1:56177
+1609698394472	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebljHvV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698395470	Marionette	INFO	Listening on port 38229
+1609698395485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698395487	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39711","noProxy":[],"sslProxy":"127.0.0.1:39711"}
+1609698493701	geckodriver	INFO	Listening on 127.0.0.1:35753
+1609698494709	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinQYPB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698495685	Marionette	INFO	Listening on port 44071
+1609698495721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698495722	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37329","noProxy":[],"sslProxy":"127.0.0.1:37329"}
+1609698593531	geckodriver	INFO	Listening on 127.0.0.1:57403
+1609698594539	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRsNkaZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698595570	Marionette	INFO	Listening on port 39879
+1609698595675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698595677	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40077","noProxy":[],"sslProxy":"127.0.0.1:40077"}
+1609698695097	geckodriver	INFO	Listening on 127.0.0.1:40177
+1609698696105	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDi825S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698697142	Marionette	INFO	Listening on port 46497
+1609698697262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698697263	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44385","noProxy":[],"sslProxy":"127.0.0.1:44385"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609698758027	Marionette	INFO	Stopped listening on port 46497
+1609698771726	geckodriver	INFO	Listening on 127.0.0.1:59631
+1609698772744	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7Ddy2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698773803	Marionette	INFO	Listening on port 36563
+1609698773866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698773867	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44829","noProxy":[],"sslProxy":"127.0.0.1:44829"}
+1609698834126	geckodriver	INFO	Listening on 127.0.0.1:45721
+1609698835131	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletsRJzl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698835895	Marionette	INFO	Listening on port 45587
+1609698836045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698836047	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39035","noProxy":[],"sslProxy":"127.0.0.1:39035"}
+1609698896135	geckodriver	INFO	Listening on 127.0.0.1:46759
+1609698897144	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiSnLok"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698897870	Marionette	INFO	Listening on port 40391
+1609698898021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698898022	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34793","noProxy":[],"sslProxy":"127.0.0.1:34793"}
+
+(firefox:3702): GLib-GObject-WARNING **: 15:35:09.687: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f03fb8c4e20' of type 'MaiAtkType139'
+1609698959299	Marionette	INFO	Stopped listening on port 40391
+1609698966671	geckodriver	INFO	Listening on 127.0.0.1:33207
+1609698967680	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH5AeIS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609698968662	Marionette	INFO	Listening on port 42285
+1609698968693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609698968694	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33559","noProxy":[],"sslProxy":"127.0.0.1:33559"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699036522	geckodriver	INFO	Listening on 127.0.0.1:38295
+1609699037531	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile905pC2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699038562	Marionette	INFO	Listening on port 35847
+1609699038695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699038696	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40961","noProxy":[],"sslProxy":"127.0.0.1:40961"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699094035	geckodriver	INFO	Listening on 127.0.0.1:47273
+1609699095178	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3sYwpa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699096234	Marionette	INFO	Listening on port 34451
+1609699096293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699096294	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34705","noProxy":[],"sslProxy":"127.0.0.1:34705"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699193982	geckodriver	INFO	Listening on 127.0.0.1:48841
+1609699194990	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXsjvFJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699195957	Marionette	INFO	Listening on port 46109
+1609699196007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699196008	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39081","noProxy":[],"sslProxy":"127.0.0.1:39081"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699257438	Marionette	INFO	Stopped listening on port 46109
+1609699264563	geckodriver	INFO	Listening on 127.0.0.1:38255
+1609699265572	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen4l3c0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699266602	Marionette	INFO	Listening on port 43407
+1609699266724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699266725	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46537","noProxy":[],"sslProxy":"127.0.0.1:46537"}
+1609699327389	geckodriver	INFO	Listening on 127.0.0.1:33063
+1609699328398	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen7kxSm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699329569	Marionette	INFO	Listening on port 42223
+1609699329625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699329626	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46093","noProxy":[],"sslProxy":"127.0.0.1:46093"}
+1609699382924	Marionette	INFO	Stopped listening on port 42223
+1609699390339	geckodriver	INFO	Listening on 127.0.0.1:48445
+1609699391347	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2Wwe8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699392495	Marionette	INFO	Listening on port 43733
+1609699392562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699392564	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36125","noProxy":[],"sslProxy":"127.0.0.1:36125"}
+1609699445889	Marionette	INFO	Stopped listening on port 43733
+1609699453556	geckodriver	INFO	Listening on 127.0.0.1:43177
+1609699454573	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoYPyZO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699455320	Marionette	INFO	Listening on port 43389
+1609699455443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699455444	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38997","noProxy":[],"sslProxy":"127.0.0.1:38997"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699527420	geckodriver	INFO	Listening on 127.0.0.1:40597
+1609699528428	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletfS3RM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699529198	Marionette	INFO	Listening on port 44519
+1609699529240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699529241	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35013","noProxy":[],"sslProxy":"127.0.0.1:35013"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699596841	geckodriver	INFO	Listening on 127.0.0.1:45447
+1609699597858	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile10dojB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699599052	Marionette	INFO	Listening on port 38733
+1609699599072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699599073	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41367","noProxy":[],"sslProxy":"127.0.0.1:41367"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699660026	Marionette	INFO	Stopped listening on port 38733
+1609699667228	geckodriver	INFO	Listening on 127.0.0.1:42103
+1609699668237	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBoxZTM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699669004	Marionette	INFO	Listening on port 34105
+1609699669051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699669052	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33241","noProxy":[],"sslProxy":"127.0.0.1:33241"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699736925	geckodriver	INFO	Listening on 127.0.0.1:56351
+1609699737943	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1oToDc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699739059	Marionette	INFO	Listening on port 44263
+1609699739206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699739207	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36617","noProxy":[],"sslProxy":"127.0.0.1:36617"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699807929	geckodriver	INFO	Listening on 127.0.0.1:47039
+1609699808938	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeoSMih"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699809734	Marionette	INFO	Listening on port 44863
+1609699809753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699809754	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45357","noProxy":[],"sslProxy":"127.0.0.1:45357"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609699870574	Marionette	INFO	Stopped listening on port 44863
+1609699878260	geckodriver	INFO	Listening on 127.0.0.1:59519
+1609699879268	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileezoxhi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699880029	Marionette	INFO	Listening on port 44009
+1609699880081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699880082	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33179","noProxy":[],"sslProxy":"127.0.0.1:33179"}
+1609699940897	geckodriver	INFO	Listening on 127.0.0.1:38131
+1609699941905	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegf7Tid"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609699942654	Marionette	INFO	Listening on port 37577
+1609699942757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609699942759	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40709","noProxy":[],"sslProxy":"127.0.0.1:40709"}
+1609700011844	geckodriver	INFO	Listening on 127.0.0.1:39845
+1609700012852	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4n06hD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700014024	Marionette	INFO	Listening on port 42907
+1609700014089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700014090	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40627","noProxy":[],"sslProxy":"127.0.0.1:40627"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700074660	Marionette	INFO	Stopped listening on port 42907
+1609700081993	geckodriver	INFO	Listening on 127.0.0.1:36267
+1609700083000	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewNvdr5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700083748	Marionette	INFO	Listening on port 40399
+1609700083966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700083971	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42733","noProxy":[],"sslProxy":"127.0.0.1:42733"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609700094838	geckodriver	INFO	Listening on 127.0.0.1:53173
+1609700095878	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDLheSX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700096629	Marionette	INFO	Listening on port 44009
+1609700096731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700096733	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42885","noProxy":[],"sslProxy":"127.0.0.1:42885"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700157436	Marionette	INFO	Stopped listening on port 44009
+1609700164869	geckodriver	INFO	Listening on 127.0.0.1:43267
+1609700165884	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexzzzFb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700166617	Marionette	INFO	Listening on port 44281
+1609700166731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700166733	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36497","noProxy":[],"sslProxy":"127.0.0.1:36497"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700194878	geckodriver	INFO	Listening on 127.0.0.1:33571
+1609700195886	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEIMu4m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700196625	Marionette	INFO	Listening on port 34689
+1609700196738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700196740	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39637","noProxy":[],"sslProxy":"127.0.0.1:39637"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700294753	geckodriver	INFO	Listening on 127.0.0.1:39775
+1609700295761	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOQF1QY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700296759	Marionette	INFO	Listening on port 34637
+1609700296779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700296780	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42025","noProxy":[],"sslProxy":"127.0.0.1:42025"}
+1609700354014	Marionette	INFO	Stopped listening on port 34637
+1609700361451	geckodriver	INFO	Listening on 127.0.0.1:48309
+1609700362469	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9bbkFj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700363544	Marionette	INFO	Listening on port 46191
+1609700363582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700363583	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45547","noProxy":[],"sslProxy":"127.0.0.1:45547"}
+1609700395238	geckodriver	INFO	Listening on 127.0.0.1:33123
+1609700396243	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Jx0uX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700397279	Marionette	INFO	Listening on port 46847
+1609700397382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700397384	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41385","noProxy":[],"sslProxy":"127.0.0.1:41385"}
+
+(firefox:12205): GLib-GObject-WARNING **: 16:00:09.273: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f5824ee0bf0' of type 'MaiAtkType139'
+1609700458781	Marionette	INFO	Stopped listening on port 46847
+1609700466282	geckodriver	INFO	Listening on 127.0.0.1:43819
+1609700467291	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile601DUM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700468230	Marionette	INFO	Listening on port 43907
+1609700468309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700468310	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40231","noProxy":[],"sslProxy":"127.0.0.1:40231"}
+
+(firefox:12712): GLib-GObject-WARNING **: 16:01:19.173: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f6cdd163e70' of type 'MaiAtkType139'
+1609700536067	geckodriver	INFO	Listening on 127.0.0.1:37225
+1609700537075	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebdTm98"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700537996	Marionette	INFO	Listening on port 40217
+1609700538087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700538088	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42257","noProxy":[],"sslProxy":"127.0.0.1:42257"}
+1609700595470	geckodriver	INFO	Listening on 127.0.0.1:39601
+1609700596475	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile06nhTu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700597517	Marionette	INFO	Listening on port 39923
+1609700597591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700597592	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43409","noProxy":[],"sslProxy":"127.0.0.1:43409"}
+1609700695463	geckodriver	INFO	Listening on 127.0.0.1:45079
+1609700696471	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6EQBvq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700697200	Marionette	INFO	Listening on port 39897
+1609700697379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700697380	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35525","noProxy":[],"sslProxy":"127.0.0.1:35525"}
+1609700795411	geckodriver	INFO	Listening on 127.0.0.1:39115
+1609700796420	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8qUvyh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700797370	Marionette	INFO	Listening on port 43909
+1609700797444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700797445	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41969","noProxy":[],"sslProxy":"127.0.0.1:41969"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700858159	Marionette	INFO	Stopped listening on port 43909
+1609700865683	geckodriver	INFO	Listening on 127.0.0.1:42793
+1609700866692	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIAdjHI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700867669	Marionette	INFO	Listening on port 35419
+1609700867705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700867706	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40837","noProxy":[],"sslProxy":"127.0.0.1:40837"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/51/js/react-dom/16.12.0/react-dom.production.min.js, line 175: Error: Minified React error #227; visit https://reactjs.org/docs/error-decoder.html?invariant=227 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609700936598	geckodriver	INFO	Listening on 127.0.0.1:36767
+1609700937606	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejOhZIC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609700938343	Marionette	INFO	Listening on port 35893
+1609700938614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609700938615	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38801","noProxy":[],"sslProxy":"127.0.0.1:38801"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609701006351	geckodriver	INFO	Listening on 127.0.0.1:54629
+1609701007356	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1W4Jmn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701008261	Marionette	INFO	Listening on port 43925
+1609701008380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701008381	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36557","noProxy":[],"sslProxy":"127.0.0.1:36557"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js, line 9: Error: Failed to load script https://assets.adobedtm.com/extensions/EP7b1fa4581fb94dd0961a981af9997765/AppMeasurement_Module_ActivityMap.min.js
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609701069029	Marionette	INFO	Stopped listening on port 43925
+1609701077040	geckodriver	INFO	Listening on 127.0.0.1:46525
+1609701078048	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyc6R3X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701078814	Marionette	INFO	Listening on port 33395
+1609701079062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701079063	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45595","noProxy":[],"sslProxy":"127.0.0.1:45595"}
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609701096216	geckodriver	INFO	Listening on 127.0.0.1:52691
+1609701097221	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4PZ2I3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701098173	Marionette	INFO	Listening on port 37619
+1609701098274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701098276	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40857","noProxy":[],"sslProxy":"127.0.0.1:40857"}
+1609701195974	geckodriver	INFO	Listening on 127.0.0.1:57333
+1609701196982	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileug0euc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701197690	Marionette	INFO	Listening on port 40737
+1609701197817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701197819	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40103","noProxy":[],"sslProxy":"127.0.0.1:40103"}
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.js, line 31: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1609701295957	geckodriver	INFO	Listening on 127.0.0.1:44129
+1609701296965	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCvDTi6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701298154	Marionette	INFO	Listening on port 41629
+1609701298178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701298179	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46821","noProxy":[],"sslProxy":"127.0.0.1:46821"}
+1609701396223	geckodriver	INFO	Listening on 127.0.0.1:54833
+1609701397227	mozrunner::runner	INFO	Running command: "/home/amaurijp/anaconda3/envs/NLP/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecBrdw1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609701398307	Marionette	INFO	Listening on port 33557
+1609701398340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609701398341	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:32771","noProxy":[],"sslProxy":"127.0.0.1:32771"}
+
+(firefox:17359): GLib-GObject-WARNING **: 16:16:50.932: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fd14cac4830' of type 'MaiAtkType139'
+1609701453207	Marionette	INFO	Stopped listening on port 33557
